@@ -296,7 +296,7 @@ st.subheader("📱 Phone Verification")
 
 phone = st.text_input(
     "Enter your phone number with country code",
-    placeholder="+919876543210"
+    placeholder="+917483634536"
 )
 
 if st.button("Send SMS OTP", use_container_width=True):
